@@ -1,2 +1,6 @@
 hello 2222
+<<<<<<< HEAD
 master test
+=======
+hot-fix test
+>>>>>>> hot-fix
